@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerTag
+  - MonsterTag
+  - NpcTag
+  - ItemDropTag
+  - BuildingTag
+  - HarvestableTag
+  - Fire
+  - enemyBug
+  - Castle
+  - MONSTER
+  - Item Database
+  - LadderTrigger
+  - Action
+  - Interactable
+  - Collectable
+  - LookAt
+  - Weapon
+  - Enemy
+  - ClimbUp
+  - StepUp
+  - JumpOver
+  - AutoCrouch
+  - Ignore Ragdoll
+  - PlayerUI
+  - Boss
+  - Ragdoll
+  - CompanionAI
+  - Water
+  - FreeClimb
+  - ClimbDirection
+  - Zipline
+  - Dirt
+  - Metal
+  - Barrel
+  - Wood
+  - Glass
+  - Concrete
+  - Sters
+  - weapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Character
+  - ItemDrop
+  - MiniMap
+  - WarpPortalOrSafeArea
+  - DamageEntity
+  - Building
+  - Harvestable
+  - CharacterUI
+  - Player
+  - Enemy
+  - CompanionAI
+  - Triggers
+  - StopMove
+  - HeadTrack
+  - BodyPart
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 794791751
+    locked: 0
+  - name: Character
+    uniqueID: 3557845381
+    locked: 0
