@@ -21,6 +21,6 @@ Click
 
 ![image](https://github.com/SmiteFLame/3DUnityGame/blob/master/3d/3D22.png)
 
-![image](https://github.com/SmiteFLame/3DUnityGame/blob/master/3d/3D23.png)
-
 ![image](https://github.com/SmiteFLame/3DUnityGame/blob/master/3d/3D24.png)
+
+![image](https://github.com/SmiteFLame/3DUnityGame/blob/master/3d/3D23.png)
