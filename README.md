@@ -12,6 +12,8 @@ A great deal of effort was made to get out of the static defense game.
 
 ## Video
 Click
+
+
 [![Video Label](http://img.youtube.com/vi/hvblMGBDr-w/0.jpg)](https://youtu.be/hvblMGBDr-w)
 
 ## Screen Shot
