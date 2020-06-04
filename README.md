@@ -11,6 +11,7 @@ A great deal of effort was made to get out of the static defense game.
 - `Unity 2019.1.14`
 
 ## Video
+Click
 [![Video Label](http://img.youtube.com/vi/hvblMGBDr-w/0.jpg)](https://youtu.be/hvblMGBDr-w)
 
 ## Screen Shot
